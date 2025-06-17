@@ -70,8 +70,6 @@ main {
     min-width: 260px;
     flex: 1 1 280px;
     text-align: center;
-    box-shadow: 4px 4px 12px var(--sombra);
-    transition: transform var(--transicao), box-shadow var(--transicao);
 }
 
 .disciplina:hover {
